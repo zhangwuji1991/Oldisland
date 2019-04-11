@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+  	"epsoide-cmp": "/components/epsoide/epsoide",
+  	"movie-cmp":"/components/classic/movie/movie",
+  	"like-cmp": "/components/like/index"
+  }
+}
